@@ -1,0 +1,115 @@
+DETAILPLANEERINGU MENETLUS, KUI DETAILPLANEERING ON ÜLDPLANEERINGUT MUUTEV JA VIIAKSE LÄBI KESKKONNAMÕJU STRATEEGILINE HINDAMINE (KSH)
+
+Allikas: Majandus- ja Kommunikatsiooniministeeriumi ruumilise planeerimise osakonna menetlusskeem (skeemil märgitud koostamise seis 03.03.2025). Skeemi aluseks on PlanS ja KeHJS seisuga 13.06.2026. Skeem on informatiivne ega oma õiguslikku tähendust.
+Märkus: tekstiversioon on koostatud käsitsi PDF-vooskeemist. Menetluse etapid on esitatud õiges järjekorras.
+
+LÜHENDID
+DP – detailplaneering; ÜP – üldplaneering; KSH – keskkonnamõju strateegiline hindamine; KSH P – KSH programm; PlanS – planeerimisseadus; KeHJS – keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seadus; HMS – haldusmenetluse seadus; KOKS – kohaliku omavalitsuse korralduse seadus; KOV – kohalik omavalitsus; MaRu – Maa- ja Ruumiamet.
+
+ÜLDINE
+Detailplaneering võib põhjendatud vajaduse korral sisaldada kehtestatud üldplaneeringu põhilahenduse muutmise ettepanekut (PlanS § 142 lg 1). Detailplaneering on lähiaastate ehitustegevuse, sh ehitusprojekti koostamise alus.
+
+TÄHELEPANU (üldpõhimõtted)
+- KSH-ga seotud toimingutele kohaldatakse PlanS-i menetlusnõudeid ja KeHJS-i sisunõudeid (PlanS lg 4; paragrahvi number skeemil puudu).
+- Kui DP on ÜP-d muutev ja tehakse KSH, lähtutakse DP ja KSH menetlemisel ÜP menetlemiseks ettenähtud nõuetest (PlanS § 142 lg 3). See tähendab, et järgida tuleb ÜP menetlust ning ka koostöö ja kaasamine toimub ÜP koostamiseks ettenähtud korras (st kehtib PlanS § 76, mitte § 127).
+- KOV on planeeringu koostamise korraldajana kohustatud tagama, et DP-d koostab vajaliku pädevusega planeerija (PlanS § 4 lg 5–6, § 6 p 11) ja KSH koostamist juhib nõuetele vastav juhtekspert (PlanS § 4 lg 5; KeHJS § 34). Kui KOV-i töötajal on piisav pädevus, võib ta ühte või mõlemat rolli ise täita.
+- Kogu DP koostamise protsessi vältel avalikustatakse planeeringuga seotud informatsioon jooksvalt KOV-i veebilehel (PlanS § 76 lg 5).
+- Põhjendatud vajadusel on võimalik menetlustähtaegu pikendada (HMS § 41).
+- Kui DP koostamisel tehakse muudatusi, tuleb hinnata, kas tegemist võib olla põhilahenduse muudatusega. Kui on, tuleb otsustada, kui kaugele on vaja menetluses tagasi minna (nt kas on vaja küsida uus kooskõlastus või arvamus, kas on vaja korraldada uus avalik väljapanek ja avalik arutelu).
+- DP koostamisel tuleb hinnata asjakohaseid sotsiaalseid, majanduslikke, kultuurilisi ja looduskeskkonnale avalduvaid mõjusid, sh viiakse läbi KSH. Mõjude hindamised võib ühildada (täpsem info: „Nõuandeid üldplaneeringu koostamiseks“ ptk 6).
+
+MENETLUSE ETAPID (järjekorras)
+
+ETAPP 1. DP koostamise vajadus
+- KOV-ile esitatakse DP algatamise taotlus või KOV otsustab ise DP-d koostama asuda.
+- Enne DP algatamist selgitatakse välja DP vajadus, finantseerimise ja elluviimise võimalikkus ning KSH vajadus ja finantseerimise võimalikkus.
+- DP algatamiseks esitatav taotlus peab sisaldama ammendavat informatsiooni, eelkõige planeeringuala, eesmärki ja taotleja andmeid (HMS § 14, PlanS § 128 lg 5).
+- Kui KOV otsustab ise DP koostamisele asuda, taotlust ei esitata ja menetluse algatab KOV (HMS § 35 lg 1 p 2).
+
+ETAPP 2. DP ja KSH algatamine
+- DP ja KSH algatatakse KOV-i volikogu otsusega 30 päeva jooksul taotluse saamisest arvates (PlanS § 142 lg 2, § 77 lg 1). Otsuse sisu: PlanS § 77 lg 4.
+- Enne DP algatamist peab KOV veenduma, et on võimeline tagama endapoolsete kohustuste täitmise DP välja arendamisel (PlanS § 128 lg 2 p 2, § 131).
+- Planeeringu tellimise ja asjakohaste mõjude hindamise kulude kandmiseks võib sõlmida lepingu huvitatud isikuga (PlanS § 4 lg 2¹).
+- DP võib jätta põhjendatud juhul algatamata (PlanS § 128 lg 2, 3).
+- KOV peab välja selgitama KSH vajaduse (PlanS § 124 lg 5, 6).
+- Kui KSH algatatakse kohustuslikus korras, selle algatamise vajadust ei põhjendata. Kui KSH algatatakse eelhinnangu alusel, lisatakse KSH algatamise otsusele asjakohane põhjendus. KOV otsustab, kas põhjendused tuuakse otsuse motivatsioonis (KSH eelhinnangu olulised aspektid) või selle lisas (KSH eelhinnang). Oluline on, et kogu info ja põhjendused oleksid olemas ning vastaksid KeHJS § 33 lg 4–6 nõuetele.
+- Algatamisest teavitatakse (PlanS § 77 lg 5–8):
+  - ajalehtedes 30 päeva jooksul;
+  - Ametlikes Teadaannetes ja KOV-i veebilehel 14 päeva jooksul;
+  - koostöö tegijatele ja kaasatavatele 30 päeva jooksul;
+  - vajadusel eeldatavasti sundvõõrandatava või sundvalduse seadmise objektiks oleva kinnisasja omanikule 7 päeva jooksul.
+  Teate sisu: PlanS § 77 lg 6, KeHJS § 35 lg 7.
+- Selleks etapiks peavad olema läbi mõeldud planeeringu ja mõjude hindamise koostöö tegijad ja kaasatavad (PlanS § 76). Soovitav on koostada kaasamiskava, mis määratleb muu hulgas planeeringu ja mõjude hindamise koostamise osapooled.
+
+ETAPP 3. DP lähteseisukohad ja KSH programm
+- DP lähteseisukohtade ja KSH programmi kohta küsitakse ettepanekuid koostöö tegijatelt ja kaasatavatelt (PlanS § 81 lg 2).
+- MaRu võib määrata täiendavad asutused ja isikud, kellega tuleb teha koostööd või keda tuleb kaasata (PlanS § 81 lg 3).
+- Ettepanekute esitamiseks määratakse tähtaeg, mis ei ole lühem kui 30 päeva (PlanS § 81 lg 1).
+- Ettepanekute alusel täiendatud lähteseisukohad ja KSH programm avalikustatakse KOV-i veebilehel koos nende kohta esitatud ettepanekutega (PlanS § 81 lg 6, § 76 lg 5).
+- KSH programmi koostab KOV koostöös KSH juhteksperdiga ja kaasab vajadusel teisi vajaliku pädevusega isikuid.
+
+ETAPP 4. DP ja KSH aruande eelnõu avalikustamine
+- Korraldatakse avalik väljapanek vähemalt KOV-i keskuses ja valla suuremate asulate keskustes, linnaosadega linnades linnaosa keskuses, vähemalt 30 päeva (PlanS § 82 lg 1, 3).
+- Avalikust väljapanekust teavitatakse ajalehtedes, koostöö tegijatele ja kaasatavatele ning KOV-i veebilehel (PlanS § 82 lg 4, 5). Teate sisu: PlanS § 82 lg 6, KeHJS § 41 (vt § 37 lg 2).
+- Kirjalikele arvamustele vastatakse kirjalikult 30 päeva jooksul pärast avaliku väljapaneku lõppu, esitades KOV-i põhjendatud seisukoha arvamuse kohta ning teatades avaliku arutelu toimumise aja ja koha (PlanS § 82 lg 8).
+- Avalik arutelu korraldatakse vähemalt KOV-i keskuses, linnaosadega linnades linnaosa keskuses, 45 päeva jooksul pärast avaliku väljapaneku lõppu (PlanS § 83 lg 1).
+- Avalikust arutelust teavitatakse kirjaga asutusi ja isikuid (PlanS § 83 lg 2). Teate sisu: avaliku arutelu toimumise aeg ja koht.
+- Kui avaliku väljapaneku ajal esitati kirjalikke arvamusi, avaldatakse 30 päeva jooksul pärast avaliku arutelu lõppu info avaliku väljapaneku ja arutelu tulemuste kohta ajalehtedes (PlanS § 84 lg 1).
+- Avaliku väljapaneku ja avaliku arutelu tulemuste alusel tehakse DP-s ja KSH aruande eelnõus vajalikud muudatused (PlanS § 84 lg 2).
+- Kui DP-le koostatakse elluviimiskava, on soovitatav sellele tähelepanu pöörata juba avalikustamise etapis. Ka DP ruumilisele illustratsioonile on soovitatav tähelepanu pöörata juba selles etapis.
+
+ETAPP 5. DP ja KSH aruande eelnõu kooskõlastamine ja arvamuse küsimine
+- DP ja KSH aruande eelnõu esitatakse kooskõlastamiseks asutustele ja isikutele ning arvamuse avaldamiseks kaasatavatele isikutele (PlanS § 85 lg 1).
+- Kui 30 päeva jooksul ei ole kooskõlastust või arvamust antud ega esitatud taotlust tähtaja pikendamiseks, loetakse DP eelnõu kooskõlastatuks või eeldatakse, et arvamust ei soovita anda (PlanS § 85 lg 2).
+- Kui kooskõlastamisel ei viidata vastuolule õigusakti või maakonnaplaneeringuga, loetakse DP kooskõlastatuks. KSH aruande eelnõu kooskõlastamisel hinnatakse aruande eelnõu vastavust õigusaktidele ning selles sisalduvate hinnangute piisavust ja objektiivsust (PlanS § 85 lg 3).
+- Laekunud seisukohti tuleb kaaluda ja neile põhjendatult vastata 60 päeva jooksul. Vajadusel tuleb planeeringulahendust muuta või täiendada.
+- Kooskõlastuste ja arvamuste alusel korrigeeritakse vajadusel DP-d ja KSH aruande eelnõud.
+
+ETAPP 6. DP vastuvõtmine
+- Enne vastuvõtmist lisatakse KSH tulemused DP-sse (PlanS § 86 lg 1).
+- Kontrollitakse vastavust õigusaktidele ja KOV-i ruumilise arengu eesmärkidele (PlanS § 86 lg 2).
+- KOV-i volikogu teeb DP vastuvõtmise otsuse (PlanS § 86).
+- Kui DP-le koostatakse elluviimise kava, tuleb see lisada vastuvõtmise otsusele (PlanS § 3 lg 5).
+
+ETAPP 7. DP avalikustamine
+- Korraldatakse avalik väljapanek vähemalt KOV-i keskuses ja valla suuremate asulate keskustes, linnaosadega linnades linnaosa keskuses, vähemalt 30 päeva (PlanS § 87 lg 1, 4).
+- Avalikust väljapanekust teavitatakse ajalehtedes, kirjaga koostöö tegijatele ja kaasatavatele ning KOV-i veebilehel (PlanS § 87 lg 5, 6). Teate sisu: PlanS § 87 lg 7, lisaks avaliku väljapaneku aeg ja koht.
+- Koos DP-ga avalikustatakse kooskõlastamise etapis antud kooskõlastused ja arvamused (PlanS § 87 lg 3).
+- DP-st peavad selguma kavandatavad muudatused, esitatud lahenduste kaalutletud põhjendused, DP elluviimise tingimused ja muud DP-d selgitavad asjaolud (PlanS § 87 lg 3).
+- DP lisana esitatakse vähemalt üks planeeringulahenduse ruumiline illustratsioon (PlanS § 135 lg 4).
+- Kirjalikele arvamustele vastatakse kirjalikult 30 päeva jooksul pärast avaliku väljapaneku lõppu, esitades KOV-i põhjendatud seisukoha arvamuse kohta ning teatades avaliku arutelu toimumise aja ja koha (PlanS § 87 lg 9).
+- Avalik arutelu korraldatakse vähemalt KOV-i keskuses ja valla suuremate asulate keskustes, linnaosadega linnades linnaosa keskuses, 45 päeva jooksul pärast avaliku väljapaneku lõppu (PlanS § 88 lg 1).
+- Avaliku arutelu korraldamine ei ole vajalik, kui DP kohta ei esitatud avaliku väljapaneku ajal kirjalikke arvamusi või kui kõik kirjalikult esitatud arvamused on arvesse võetud (PlanS § 88 lg 2).
+- Avalikust arutelust teavitatakse ajalehtedes, asutustele ja isikutele ning KOV-i veebilehel (PlanS § 87 lg 6, § 88 lg 3). Teate sisu: avaliku arutelu toimumise aeg ja koht.
+- Kui avaliku väljapaneku ajal esitati kirjalikke arvamusi, avaldatakse 30 päeva jooksul pärast avaliku arutelu toimumist info avaliku väljapaneku tulemuste kohta ajalehtedes (PlanS § 89 lg 1).
+- Avaliku väljapaneku ja avaliku arutelu tulemuste alusel tehakse DP-s vajalikud muudatused (PlanS § 89 lg 2).
+- Kui avaliku väljapaneku järel tehtavad muudatused muudavad DP põhilahendust või toovad kaasa vajaduse KSH aruannet oluliselt muuta, tuleb osaliselt korrata DP kooskõlastamise etappi ja korraldada täiendav avalikustamine (PlanS § 89 lg 3).
+
+ETAPP 8. DP heakskiitmine
+- DP esitatakse heakskiitmiseks MaRu-le (PlanS § 90 lg 1).
+- MaRu kiidab DP heaks või jätab selle heaks kiitmata 60 päeva jooksul (PlanS § 90 lg 2).
+- MaRu võib teha ettepaneku kehtestada DP osaliselt (PlanS § 90 lg 5).
+- Kui DP-sse tehakse muudatusi, mis muudavad DP põhilahendust, korratakse DP menetlust osaliselt. Menetluse kordamise vajadust tuleb hinnata ka DP osalisel kehtestamisel.
+
+ETAPP 9. DP kehtestamine
+- MaRu heakskiidetud DP kehtestab KOV-i volikogu otsusega (PlanS § 91; KOKS § 22 lg 1 p 31).
+- KSH aruanne on kehtestatava DP lisa (PlanS § 91; täpne lõige skeemil ebaselge).
+- Kehtestamisest teavitatakse (PlanS § 91 lg 2, 5):
+  - ajalehtedes hiljemalt 30 päeva jooksul kehtestamisest;
+  - KOV-i veebilehel ja Ametlikes Teadaannetes 14 päeva jooksul kehtestamisest;
+  - kirjaga puudutatud isikutele, koostöö tegijatele ja kaasatutele 14 päeva jooksul kehtestamisest.
+  Teate sisu: PlanS § 91 lg 4; KeHJS § 44 lg 2 nimetatud dokumendid.
+- Teade DP kehtestamisest saadetakse MaRu-le 14 päeva jooksul kehtestamise päevast arvates (PlanS § 91 lg 3).
+- DP kehtestamise andmed esitatakse planeeringute andmekogusse 14 päeva jooksul kehtestamisest arvates (PlanS § 91 lg 3¹).
+- Kehtestatakse KSH seiremeetmed või esitatakse põhjendus, miks KSH seiremeetmeid ei kehtestata (KeHJS § 42 lg 1¹). Soovitatav on läbi mõelda, millise teabe kogumine on vajalik planeeringu sisuliseks ülevaatamiseks ja kuidas teavet kogutakse.
+
+PEAMISED TÄHTAJAD (kokkuvõte)
+- DP ja KSH algatamise otsus: 30 päeva jooksul taotluse saamisest.
+- Algatamisest teavitamine: ajalehed 30 p; Ametlikud Teadaanded ja KOV veebileht 14 p; koostöö tegijad ja kaasatavad 30 p; kinnisasja omanik 7 p.
+- Ettepanekud lähteseisukohtadele ja KSH programmile: tähtaeg vähemalt 30 päeva.
+- Avalik väljapanek (eelnõu ja DP): vähemalt 30 päeva.
+- Kirjalikele arvamustele vastamine: 30 päeva jooksul pärast väljapaneku lõppu.
+- Avalik arutelu: 45 päeva jooksul pärast väljapaneku lõppu.
+- Kooskõlastuse või arvamuse andmine: 30 päeva; laekunud seisukohtadele vastamine 60 päeva.
+- MaRu heakskiit: 60 päeva.
+- Kehtestamisest teavitamine: ajalehed 30 p; veebileht, Ametlikud Teadaanded ja kirjad 14 p; MaRu 14 p; andmekogu 14 p.

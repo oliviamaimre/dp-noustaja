@@ -1,0 +1,102 @@
+DETAILPLANEERINGU MENETLUS, KUI DETAILPLANEERING ON ÜLDPLANEERINGU KOHANE JA KESKKONNAMÕJU STRATEEGILIST HINDAMIST (KSH) EI KORRALDATA
+
+Allikas: Majandus- ja Kommunikatsiooniministeeriumi menetlusskeem, seisuga 13.06.2026. Skeemi aluseks on planeerimisseadus seisuga 13.06.2026. Skeem on informatiivne ega oma õiguslikku tähendust.
+Märkus: tekstiversioon on koostatud käsitsi PDF-vooskeemist. Menetluse etapid on esitatud õiges järjekorras. Selles menetluses (ÜP kohane DP ilma KSH-ta) kohalduvad PlanS §-d 128–139, mitte ÜP menetluse sätted.
+
+LÜHENDID
+DP – detailplaneering; ÜP – üldplaneering; KSH – keskkonnamõju strateegiline hindamine; PlanS – planeerimisseadus; KeHJS – keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seadus; HMS – haldusmenetluse seadus; KOV – kohalik omavalitsus.
+
+ÜLDINE
+Detailplaneeringu eesmärk on eelkõige üldplaneeringu elluviimine ja kohaliku omavalitsuse territooriumi osale ruumilise terviklahenduse loomine. Detailplaneering on lähiaastate ehitustegevuse, sh ehitusprojekti koostamise alus.
+
+TÄHELEPANU (üldpõhimõtted)
+- KOV on planeeringu koostamise korraldajana kohustatud tagama, et DP-d koostab vajaliku pädevusega planeerija (PlanS § 4 lg 5–6, § 6 p 11). Kui KOV-i töötajal on piisav pädevus, võib ta seda rolli ise täita.
+- Kogu planeeringu koostamise protsessi vältel avalikustatakse planeeringuga seotud informatsioon jooksvalt KOV-i veebilehel (PlanS § 127 lg 5).
+- Põhjendatud vajadusel on võimalik menetlustähtaegu pikendada (HMS § 41).
+- Kui DP koostamisel tehakse muudatusi, tuleb hinnata, kas tegemist võib olla põhilahenduse muudatusega. Kui on, tuleb otsustada, kui kaugele on vaja menetluses tagasi minna (nt kas on vaja küsida uus kooskõlastus või arvamus, kas on vaja korraldada uus avalik väljapanek ja avalik arutelu).
+- DP koostamisel tuleb hinnata asjakohaseid sotsiaalseid, majanduslikke, kultuurilisi ja looduskeskkonnale avalduvaid mõjusid ka siis, kui KSH-d pole vaja läbi viia (täpsem info: „Nõuandeid üldplaneeringu koostamiseks“ ptk 6).
+
+MENETLUSE ETAPID (järjekorras)
+
+ETAPP 1. DP ja KSH koostamise vajadus
+- KOV-ile esitatakse DP algatamise taotlus või KOV otsustab ise DP-d koostama asuda.
+- Enne DP algatamist selgitatakse välja DP koostamise vajadus, finantseerimise ja elluviimise võimalikkus ning KSH vajadus ja finantseerimise võimalikkus.
+- DP algatamiseks esitatav taotlus peab sisaldama ammendavat informatsiooni, eelkõige planeeringuala, eesmärki ja taotleja andmeid (HMS § 14, PlanS § 128 asjakohane teave).
+- Kui KOV otsustab ise DP koostamisele asuda, taotlust ei esitata ja menetluse algatab KOV (HMS § 35 lg 1 p 2).
+
+ETAPP 2. DP algatamine, vajadusel KSH algatamata jätmine
+- DP algatatakse või jäetakse algatamata KOV-i otsusega 30 päeva jooksul taotluse saamisest arvates (PlanS § 128). Otsuse sisu: PlanS § 128 lg 5.
+- Enne DP algatamist peab KOV veenduma, et on võimeline tagama endapoolsete kohustuste täitmise DP välja arendamisel (PlanS § 128 lg 2 p 2; § 131).
+- Planeeringu tellimise ja asjakohaste mõjude hindamise kulude kandmiseks võib sõlmida lepingu huvitatud isikuga (PlanS § 4 lg 2¹).
+- DP võib jätta põhjendatud juhul algatamata (PlanS § 128 lg 2, 3).
+- Tuleb kaaluda KSH eelhinnangu koostamist (PlanS § 124 lg 6, KeHJS § 6 lg 2).
+- Kui PlanS § 124 lg 6 või KeHJS § 6 lg 2 alusel kaalutakse KSH algatamist (tehakse KSH eelhinnang) ja KOV otsustab KSH algatamata jätta, tuuakse algatamata jätmise põhjendused otsuse motivatsioonis või selle lisas. Oluline on, et kogu info ja põhjendused oleksid olemas ning vastaksid KeHJS § 33 lg 4–6 nõuetele.
+- Kui koostatakse ÜP kohane DP ja KSH eelhinnangu koostamiseks puudub vajadus, pole vaja DP algatamise otsuses ega selle lisas märkida, et KSH-d ei algatata.
+- DP algatamisest ja vajadusel KSH algatamata jätmisest teavitatakse (PlanS § 128 lg 6–9):
+  - ajalehes 30 päeva jooksul;
+  - Ametlikes Teadaannetes ja KOV-i veebilehel 14 päeva jooksul;
+  - kirjaga koostöö tegijatele ja kaasatavatele 30 päeva jooksul;
+  - vajadusel eeldatavasti sundvõõrandatava või sundvalduse seadmise objektiks oleva kinnisasja omanikule.
+  Teate sisu on sama, mis algatamise otsuse sisu (PlanS § 128 lg 7).
+- Selleks etapiks peavad olema läbi mõeldud planeeringu koostöö tegijad ja kaasatavad (PlanS § 127). Soovitav on koostada kaasamiskava, mis määratleb muu hulgas planeeringu koostamise osapooled.
+
+ETAPP 3. Vajadusel DP lähteseisukohad
+- Vajadusel koostatakse lähteseisukohad. Soovi korral võib lähtuda PlanS §-s 81 sätestatust.
+- Algatamise ja lähteseisukohtade etapi võib teha samaaegselt (nt algatada DP koos lähteseisukohtadega).
+
+ETAPP 4. Vajadusel DP eelnõu (eskiisi) avalikustamine
+- Vajadusel korraldatakse DP eelnõu (eskiisi) tutvustamine. Soovi korral võib lähtuda PlanS §-des 82–83 sätestatust.
+- Kui DP-le koostatakse elluviimise kava, tuleb sellele tähelepanu pöörata juba avalikustamisel. Ka DP ruumilisele illustratsioonile on soovitatav tähelepanu pöörata juba avalikustamise etapis.
+
+ETAPP 5. DP eelnõu (eskiisi) kooskõlastamine ja arvamuse küsimine
+- DP eelnõu esitatakse kooskõlastamiseks asutustele ja isikutele ning arvamuse avaldamiseks kaasatavatele isikutele (PlanS § 133 lg 1).
+- Kui 30 päeva jooksul ei ole kooskõlastust või arvamust antud ega esitatud taotlust tähtaja pikendamiseks, loetakse DP kooskõlastatuks või eeldatakse, et arvamust ei soovita anda (PlanS § 133 lg 2).
+- Kui kooskõlastamisel ei viidata vastuolule õigusakti või üldplaneeringuga, loetakse DP kooskõlastatuks. KSH aruande eelnõu kooskõlastamisel hinnatakse aruande eelnõu vastavust õigusaktidele ning selles sisalduvate hinnangute piisavust ja objektiivsust (PlanS § 133 lg 3).
+- Laekunud seisukohti tuleb kaaluda ja neile põhjendatult vastata 30 päeva jooksul. Vastuse võib anda koondina. Vajadusel tuleb planeeringulahendust muuta või täiendada.
+- Kooskõlastuste ja arvamuste alusel korrigeeritakse vajadusel DP-d.
+
+ETAPP 6. DP vastuvõtmine
+- Kontrollitakse DP vastavust õigusaktidele ja KOV-i ruumilise arengu eesmärkidele (PlanS § 134).
+- KOV teeb planeeringu vastuvõtmise otsuse (PlanS § 134).
+- Kui DP-le koostatakse elluviimise kava, tuleb see lisada vastuvõtmise otsusele (PlanS § 3 lg 5).
+
+ETAPP 7. DP avalikustamine
+- Korraldatakse avalik väljapanek vähemalt KOV-i keskuses ja valla suuremate asulate keskustes, linnaosadega linnades linnaosa keskuses, vähemalt 14 päeva (PlanS § 135 lg 1, 5).
+- Avalikust väljapanekust teatatakse (PlanS § 135 lg 6, 7):
+  - ajalehes;
+  - kirjaga koostöö tegijatele ja kaasatavatele;
+  - KOV-i veebilehel;
+  - sotsiaalmeedias.
+  Teate sisu: PlanS § 135 lg 8.
+- Koos DP-ga avalikustatakse kooskõlastamise etapis antud kooskõlastused ja arvamused (PlanS § 135 lg 3).
+- DP-st peavad selguma kavandatavad muudatused, esitatud lahenduste kaalutletud põhjendused, DP elluviimise tingimused ja muud DP-d selgitavad asjaolud (PlanS § 135 lg 3).
+- DP lisana esitatakse vähemalt üks lahenduse ruumiline illustratsioon (PlanS § 135 lg 4).
+- Kirjalikele arvamustele vastatakse kirjalikult 30 päeva jooksul pärast avaliku väljapaneku lõppu, esitades KOV-i põhjendatud seisukoha arvamuse kohta ning teatades avaliku arutelu toimumise aja ja koha (PlanS § 135 lg 11).
+- Avalik arutelu korraldatakse vähemalt KOV-i keskuses ja valla suuremate asulate keskustes, linnaosadega linnades linnaosa keskuses, 45 päeva jooksul pärast avaliku väljapaneku lõppu (PlanS § 136 lg 1).
+- Avaliku arutelu korraldamine ei ole vajalik, kui DP kohta ei esitatud avaliku väljapaneku ajal kirjalikke arvamusi või kui kõik kirjalikult esitatud arvamused on arvesse võetud (PlanS § 136 lg 2).
+- Avalikust arutelust teavitatakse ajalehtedes, asutustele ja isikutele, KOV-i veebilehel ja sotsiaalmeedias. Teate sisu: avaliku arutelu toimumise aeg ja koht (PlanS § 136 lg 3).
+- Kui avaliku väljapaneku ajal esitati kirjalikke arvamusi, avaldatakse 30 päeva jooksul pärast avaliku arutelu toimumist info avaliku väljapaneku tulemuste kohta ajalehes (PlanS § 137 lg 2).
+- Avaliku väljapaneku ja avaliku arutelu tulemuste alusel tehakse DP-s vajalikud muudatused (PlanS § 137 lg 1).
+- Kui avaliku väljapaneku järel tehtavad muudatused muudavad planeeringu põhilahendust, tuleb osaliselt korrata planeeringu kooskõlastamise etappi ja korraldada täiendav avalikustamine (PlanS § 137 lg 3).
+
+ETAPP 8. DP kehtestamine
+- Selles menetluses Maa- ja Ruumiameti heakskiitu ei nõuta. DP kehtestatakse otsusega (PlanS § 139 lg 1).
+- Reeglina võib DP kehtestada valla- või linnavalitsus. Kui üldplaneering puudub või kavandatakse linnaehituslikult olulisi muudatusi, teeb kehtestamise otsuse volikogu (PlanS § 139 lg 1, arvestades § 130 lg 2).
+- Kui DP-sse tehakse muudatusi, mis muudavad planeeringu põhilahendust, korratakse DP menetlust osaliselt. Menetluse kordamise vajadust tuleb hinnata ka DP osalisel kehtestamisel.
+- DP kehtestamisest teavitatakse (PlanS § 139 lg 3, 6):
+  - teatega ajalehes hiljemalt 30 päeva jooksul kehtestamisest;
+  - KOV-i veebilehel ja Ametlikes Teadaannetes 14 päeva jooksul kehtestamisest;
+  - puudutatud isikuid, koostöö tegijaid ja kaasatavaid 14 päeva jooksul kehtestamisest.
+  Teate sisu: PlanS § 139 lg 5.
+- Kehtestatud DP saadab KOV Maa- ja Ruumiametile 14 päeva jooksul kehtestamise päevast arvates (PlanS § 139 lg 4).
+- DP kehtestamise andmed esitatakse planeeringute andmekogusse 14 päeva jooksul kehtestamisest arvates (PlanS § 139 lg 4¹).
+
+PEAMISED TÄHTAJAD (kokkuvõte)
+- Algatamise otsus: 30 päeva jooksul taotluse saamisest.
+- Algatamisest teavitamine: ajaleht 30 p; Ametlikud Teadaanded ja KOV veebileht 14 p; kirjad 30 p.
+- Kooskõlastuse või arvamuse andmine: 30 päeva; laekunud seisukohtadele vastamine 30 päeva.
+- DP avalik väljapanek: vähemalt 14 päeva.
+- Kirjalikele arvamustele vastamine: 30 päeva jooksul pärast väljapaneku lõppu.
+- Avalik arutelu: 45 päeva jooksul pärast väljapaneku lõppu.
+- Tulemuste avaldamine ajalehes: 30 päeva jooksul pärast arutelu.
+- Kehtestamisest teavitamine: ajaleht 30 p; veebileht, Ametlikud Teadaanded ja puudutatud isikud 14 p; Maa- ja Ruumiamet 14 p; andmekogu 14 p.

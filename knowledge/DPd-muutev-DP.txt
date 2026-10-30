@@ -1,0 +1,52 @@
+DETAILPLANEERINGUT MUUTEV DETAILPLANEERING – MENETLUSSKEEM
+
+Allikas: menetlusskeem, koostatud 19.05.2026. Skeem on informatiivne ega oma õiguslikku tähendust.
+Märkus: tekstiversioon on koostatud käsitsi PDF-vooskeemist. Menetluse etapid on esitatud järjekorras.
+
+LÜHENDID
+PlanS – planeerimisseadus; HMS – haldusmenetluse seadus; DP – detailplaneering; KSH – keskkonnamõju strateegiline hindamine; KeHJS – keskkonnamõju hindamise ja keskkonnajuhtimissüsteemi seadus; KOV – kohalik omavalitsus.
+
+ÜLDINE
+Detailplaneeringut muutvat detailplaneeringut võib koostada kehtestatud detailplaneeringu tingimuste muutmiseks nii, et see ei mõjuta planeeringulahendust oluliselt.
+
+PANE TÄHELE
+- Detailplaneeringut muutva detailplaneeringuga ei saa teha ettepanekut üldplaneeringu muutmiseks (PlanS § 139¹ lg 2).
+- Detailplaneeringut muutvat detailplaneeringut ei või koostada, kui kavandatakse olulise keskkonnamõjuga tegevust (KeHJS § 6) või kui kavandatav tegevus on vastuolus KSH tulemusega.
+- Arvestada tuleb avatud menetluse põhimõtetega (HMS 3. peatükk).
+
+MENETLUSE ETAPID (järjekorras)
+
+ETAPP 1. DP-d muutva DP koostamise vajadus
+DP-d muutva DP koostamise alused (kõik alused võivad olla individuaalselt kohaldatavad):
+  1) DP kehtestamisest on möödas üle kolme aasta;
+  2) on ilmnenud uusi asjaolusid või on planeeringualal toimunud muutusi;
+  3) on muutunud õigusaktid, üldplaneering või teised DP-d mõjutavad planeeringud.
+Tingimused:
+  1) detailplaneeringut võib muuta kooskõlas üldplaneeringuga nii, et detailplaneeringu tervikliku ruumilahenduse muutmine ei oleks oluline;
+  2) kui kehtiva DP koostamisel oli KSH nõutav, võtab DP-d muutva DP koostamise korraldaja arvesse KSH tulemusi.
+
+ETAPP 2. DP-d muutva DP algatamine
+- DP-d muutev DP algatatakse avatud menetlusena või jäetakse algatamata KOV-i otsusega 60 päeva jooksul taotluse esitamisest arvates (PlanS § 139²).
+- Menetlus toimub avatud menetlusena HMS-i alusel.
+
+ETAPP 3. Algatamisest teavitamine
+- DP-d muutva DP algatamisest teavitatakse HMS § 47 lg 2 alusel.
+
+ETAPP 4. Kooskõlastamiseks ja arvamuse andmiseks esitamine
+- DP-d muutev DP esitatakse kooskõlastamiseks PlanS § 127 lg 1 nimetatud asutustele ning samas lõikes nimetatud isikuid teavitatakse võimalusest esitada planeeringulahenduse kohta arvamus.
+- Kui 30 päeva jooksul ei ole kooskõlastust ega arvamust antud ega esitatud taotlust tähtaja pikendamiseks, loetakse DP kooskõlastatuks või eeldatakse, et arvamust ei soovita anda (skeemil viidatud kui „PlanS § 1364 lg 2“).
+- Kui kooskõlastamisel ei viidata vastuolule õigusakti või üldplaneeringuga, loetakse DP kooskõlastatuks.
+- KOV võib oma seisukoha anda koondvastusena.
+
+ETAPP 5. Kehtestamine
+- DP-d muutev DP kehtestatakse hiljemalt 1 aasta jooksul DP algatamise taotluse esitamisest arvates.
+- DP kehtestamisel tuleb silmas pidada HMS § 62 lg 2, mille kohaselt tuleb haldusakti andmisest või andmisest keeldumisest teavitada muu hulgas isikuid, kelle õigusi haldusaktiga piiratakse või kellele pannakse täiendavaid kohustusi, ning isikuid, kelle kahjuks haldusakt kehtetuks tunnistatakse või seda muudetakse.
+
+ETAPP 6. Kehtestamisest teavitamine
+- DP-d muutva DP kehtestamisest teavitatakse valla- või linnalehes 30 päeva jooksul kehtestamisest (PlanS § 139⁵ lg 2) ning isikuid, kes on olnud seotud muudetava DP-ga (HMS § 42 lg 2).
+
+PEAMISED TÄHTAJAD (kokkuvõte)
+- Algatamise või algatamata jätmise otsus: 60 päeva jooksul taotluse esitamisest.
+- Kooskõlastuse või arvamuse andmine: 30 päeva (vaikimisi loetakse kooskõlastatuks).
+- Kehtestamine: hiljemalt 1 aasta jooksul algatamise taotluse esitamisest.
+- Kehtestamisest teavitamine valla- või linnalehes: 30 päeva jooksul.
