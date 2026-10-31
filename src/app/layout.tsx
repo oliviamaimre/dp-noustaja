@@ -19,6 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="shrink-0 border-t border-zinc-200 bg-zinc-50 px-4 py-2 text-center text-[11px] leading-snug text-zinc-500">
           Vastused põhinevad Majandus- ja Kommunikatsiooniministeeriumi menetlusskeemidel, mis on
           informatiivsed ega ole õigusnõu.
+          <span className="mt-0.5 block">© 2026 DP-nõustaja. Built with Claude Code</span>
         </footer>
       </body>
     </html>
